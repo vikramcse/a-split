@@ -1,0 +1,26 @@
+{
+  "name": "a-split",
+  "version": "1.0.0",
+  "description": "Split an array into arrays of a specific length",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/a-split.git"
+  },
+  "keywords": ["split", "array", "groups", "partition"],
+  "author": "Vikram Jadhav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikramcse/a-split/issues"
+  },
+  "homepage": "https://github.com/vikramcse/a-split#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.7.0",
+    "eslint-config-airbnb": "^6.2.0",
+    "mocha": "^2.4.5"
+  }
+}
