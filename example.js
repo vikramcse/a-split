@@ -1,0 +1,3 @@
+var split = require('./index.js');
+
+console.log(split([1, 2, 3, 4, 5, 6, 7], 2));
